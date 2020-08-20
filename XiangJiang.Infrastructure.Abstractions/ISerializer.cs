@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace XiangJiang.Infrastructure.Abstractions
+﻿namespace XiangJiang.Infrastructure.Abstractions
 {
     /// <summary>
     ///     序列化与反序列化接口
