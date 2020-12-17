@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <Authors>YanZhiwei</Authors>
     <Company>YanZhiwei</Company>
     <Product>XiangJiang</Product>
@@ -11,7 +11,7 @@
     <PackageIcon>nugetico.png</PackageIcon>
     <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Infrastructure.Abstractions</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\.assets\nugetico.png">
